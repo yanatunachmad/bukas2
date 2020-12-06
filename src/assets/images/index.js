@@ -1,0 +1,16 @@
+import Logo from './logo.png'
+import SplashBackground from './SplashBackground.png'
+import ImageHeader from './header.png'
+import emoneylog from './emoneylog.png'
+import emoney from './e-money.png'
+import Akun from './Akun.png'
+import Topup1 from './Topup.png'
+import Confirm from './ConfirmQr.png'
+import Kirim from './Transfer.png'
+import Books from './books.png'
+import Books1 from './bumi_manusia.png'
+import Books2 from './toefl.png'
+import Location from './location.png'
+import Transaction from './transaction.png'
+
+export { Logo, SplashBackground, ImageHeader, emoneylog, emoney, Akun, Topup1, Confirm, Kirim, Books, Books1, Books2, Location, Transaction}
